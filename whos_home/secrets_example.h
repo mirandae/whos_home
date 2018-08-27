@@ -1,8 +1,8 @@
 #define SSID ""
 #define SSID_pass ""
-#define meraki_dash_token ""
-#define meraki_org_id ""
-#define meraki_network_id "" 
+#define MERAKI_API_TOKEN ""
+#define MERAKI_ORG_ID ""
+#define MERAKI_NETWORK_ID "" 
 
 
 # Roommate devices
